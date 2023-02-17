@@ -11,7 +11,7 @@ GUI for a scientific calculator that makes use of buttons to solve mathematical 
 - Basic arithematic operarions.
 - Exponential and logarithmic functionalities.
 - Square root functionality.
-- CLEAR functionality to flush history and textboxes .
+- CLEAR functionality to flush history and textboxes.
 
 
 ## Registration Form
