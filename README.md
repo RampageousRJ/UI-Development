@@ -6,7 +6,7 @@ Practice GUIs for different applications developed in C# to make functionalities
 
 ## Scientific Calculator
 
-GUI for a scientific calculator that makes use of buttons to solve mathematical expressions
+GUI for a scientific calculator that makes use of buttons to solve mathematical expressions.
 
 - Basic arithematic operarions.
 - Exponential and logarithmic functionalities.
