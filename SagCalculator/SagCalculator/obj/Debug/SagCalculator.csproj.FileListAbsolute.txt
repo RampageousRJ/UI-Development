@@ -1,0 +1,12 @@
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\bin\Debug\SagCalculator.exe.config
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\bin\Debug\SagCalculator.exe
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\bin\Debug\SagCalculator.pdb
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\obj\Debug\SagCalculator.csprojResolveAssemblyReference.cache
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\obj\Debug\SagCalculator.ConductorWeight.resources
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\obj\Debug\SagCalculator.Form1.resources
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\obj\Debug\SagCalculator.Properties.Resources.resources
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\obj\Debug\SagCalculator.csproj.GenerateResource.Cache
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\obj\Debug\SagCalculator.exe
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\obj\Debug\SagCalculator.pdb
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\obj\Debug\SagCalculator.Wind.resources
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\SagCalculator\SagCalculator\obj\Debug\SagCalculator.Ice.resources
